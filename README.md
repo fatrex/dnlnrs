@@ -1,5 +1,10 @@
 ### Hi there 🙋‍♂️ I'm Daniele Lenares, nice to meet you!
 
+- 👶🏼 Made in 🇮🇹 in 1987
+- 👨🏼‍💻 Web developer since 2010.
+- 💐 Working with [Bloovery](https://github.com/bloovery) since 2019.
+- 🌱 Currently learning Flutter.
+
 <!--
 **dnlnrs/dnlnrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
