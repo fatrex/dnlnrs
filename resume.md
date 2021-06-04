@@ -1,5 +1,3 @@
->>> from markdown import Markdown
-
 # Daniele Lenares
 
 ✉️ daniele@lenares.me | 📞 +39 340.1949896 | 📍 Italy | 🔗 https://dnlnrs.dev
