@@ -1,6 +1,8 @@
+>>> from markdown import Markdown
+
 # Daniele Lenares
 
-:fa-envelope: daniele@lenares.me | :fa-phone: +39 340.1949896 | :fa-map-marker: Italy | :fa-link: https://dnlnrs.dev
+✉️ daniele@lenares.me | 📞 +39 340.1949896 | 📍 Italy | 🔗 https://dnlnrs.dev
 
 ---
 
