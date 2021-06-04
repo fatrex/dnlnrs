@@ -1,4 +1,4 @@
-### <div align="center">I'm Daniele, a full-time web developer 👨‍💻, nice to meet you!</div>  
+## <div align="center">I'm Daniele, a full-time web developer 👨‍💻, nice to meet you!</div>  
   
 
 <div align="center">
