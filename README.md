@@ -95,26 +95,5 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-
-
-### Latest blog posts  
+## Latest blog posts  
 [Lint your commits ](https://dev.to/dnlnrs/lint-your-commits-2p54)  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
