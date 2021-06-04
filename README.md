@@ -1,4 +1,5 @@
-## <div align="center">I'm Daniele, a full-time web developer 👨‍💻, nice to meet you!</div>  
+## <div align="center">I'm Daniele, a full-time web developer 👨‍💻, nice to meet you!</div>
+> Want to collaborate with me? Check out my [Résumé](https://github.com/dnlnrs/dnlnrs/blob/main/resume.md)
   
 
 <div align="center">
