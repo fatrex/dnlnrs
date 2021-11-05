@@ -7,7 +7,7 @@
 </div>  
   
 
-- 👶🏼 Made in 🇮🇹 since 1987  
+- 👶🏼 Made in 🇮🇹 in 1987  
   
 
 - 👨🏼‍💻 Web developer since 2010  
