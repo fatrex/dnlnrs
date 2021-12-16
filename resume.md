@@ -1,6 +1,6 @@
 # Daniele Lenares
 
-✉️ daniele@lenares.me | 📞 +39 340.1949896 | 📍 Italy | 🔗 https://dnlnrs.dev
+✉️ daniele@lenares.me | 📞 +39 340.1949896 | 📍 Italy
 
 ---
 
