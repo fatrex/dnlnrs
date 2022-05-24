@@ -11,7 +11,7 @@
 <br>
 
 ## Experiences
-- CTO @ **[Bloovery](https://bloovery.com)** _(09/2019 --> ongoing)_
+- CTO @ **[Bloovery](https://bloovery.com)** _(09/2019 --> 04/2022)_
 > Team leading of the tech team  
 > Tech strategic decisions  
 > Core business logic development using Node.js  
