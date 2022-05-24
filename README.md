@@ -7,16 +7,13 @@
 </div>  
   
 
-- 👶🏼 Made in 🇮🇹 in 1987  
+- 👶🏼 Made in 1987 🇮🇹  
   
 
 - 👨🏼‍💻 Web developer since 2010  
   
 
-- 💐 Currenlty working with [Bloovery](https://github.com/bloovery)  
-  
-
-- 🌱 Currently learning Flutter.  
+- 🌱 Currently learning Svelte.  
   
 
 <br/>  
